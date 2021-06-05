@@ -1,6 +1,6 @@
 # ChameleonCoin
 ChameleonCoin是一个使用了变色龙哈希技术的、单节点多用户、模拟区块链系统。
-该系统由LatteCoin修改而来，LatteCoin系统提供了一个较为完善的区块链模拟环境，你可以在其中研究、验证、考量你自己的密码学方案，该项目就是一个例子。
+该系统由[LatteCoin](https://github.com/lzwgiter/LatteCoin)修改而来，LatteCoin系统提供了一个较为完善的区块链模拟环境，你可以在其中研究、验证、考量你自己的密码学方案，该项目就是一个例子。
 
 ## 变色龙哈希技术
 该技术一方面用于对交易哈希进行计算，另一方面也提供了在保证交易哈希值不变的条件下，使用用户陷门对交易数据进行修改，实现区块数据可编辑的特性。
@@ -19,3 +19,6 @@ ChameleonCoin是一个使用了变色龙哈希技术的、单节点多用户、�
 
 启动：
 `java -jar chamelelonCoin.jar`
+
+# More
+[LatteCoin](https://github.com/lzwgiter/LatteCoin)
