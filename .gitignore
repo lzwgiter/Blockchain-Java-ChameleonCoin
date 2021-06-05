@@ -1,5 +1,7 @@
 # IDEA
 .idea
+*.iml
+target
 
 # Compiled class file
 *.class
