@@ -16,5 +16,6 @@ ChameleonCoin是一个使用了变色龙哈希技术的、单节点多用户、�
 所需：
     - 保证后台数据库(MYSQL)启动，并创建用户chain_admin、数据库lattechain。
     - 若要修改代码并重建，请添加[JPBC](http://gas.dia.unisa.it/projects/jpbc/download.html#.YLsOl4XitEY)依赖
+
 启动：
 `java -jar chamelelonCoin.jar`
